@@ -218,6 +218,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/igor-kan/sph
+        Zotero: https://www.zotero.org/groups/6778487/d57-sph
     layout:
       position: footer
       priority: 50

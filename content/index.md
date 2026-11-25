@@ -42,3 +42,9 @@ $$A(\mathbf{r}) \approx \int A(\mathbf{r}') W(\mathbf{r} - \mathbf{r}', h) \, d^
 * **Protoplanetary Disks**: Evolution of gas disks perturbed by embedded protoplanets, spiral arm excitation, and gap opening.
 * **Polytropic Stellar Equilibria**: Lane-Emden relaxation and non-axisymmetric core collapse.
 * **Shock Tubes & Blast Waves**: 1D/2D Sod shock verification and Sedov-Taylor blast comparisons.
+
+---
+
+## Literature & Reference Library
+
+* **Zotero Group**: [d57-sph Zotero Library](https://www.zotero.org/groups/6778487/d57-sph) &mdash; core bibliography covering hydrodynamic foundations, artificial viscosity, and GPU acceleration.
